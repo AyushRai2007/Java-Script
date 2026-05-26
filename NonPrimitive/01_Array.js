@@ -22,12 +22,14 @@ myArr.shift()
  //slice splice
 
  const my1 = myArr.slice(1,4)
- console.log(my1);
- console.log("A" , myArr);
+ //console.log(my1);
+ // console.log("A" , myArr);
 
  const my2 = myArr.splice(1 ,4)
- console.log(my2);
- console.log( "B", myArr);
+ // console.log(my2);
+ //console.log( "B", myArr);
+
+ 
  
 
  
